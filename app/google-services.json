@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "481361398448",
+    "firebase_url": "https://clickerbase-7b144-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "clickerbase-7b144",
+    "storage_bucket": "clickerbase-7b144.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:481361398448:android:6595aeca079b4b4afd4975",
+        "android_client_info": {
+          "package_name": "com.example.tapgamebass"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "481361398448-0btqr515398eo3i0joo69phs42ef6v6d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSp_MX3L80-16oYpxk9d_Oiae_BPeElD4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "481361398448-0btqr515398eo3i0joo69phs42ef6v6d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
